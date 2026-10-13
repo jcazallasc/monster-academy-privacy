@@ -4,7 +4,7 @@ Public page: https://jcazallasc.github.io/monster-academy-privacy/
 
 Monster Academy (Academia de Monstruos), package `com.jcazallasc.monsteracademy`.
 
-The same text is shown in the app under Settings, Privacy. It follows the language chosen there.
+The app opens this page from Settings, Privacy. The page is in Spanish and English.
 
 ## English
 
